@@ -1,6 +1,5 @@
 #!/bin/bash
 
-touch /tmp/keepalive
 
 set -e
 
